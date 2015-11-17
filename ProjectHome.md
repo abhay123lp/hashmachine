@@ -1,0 +1,1 @@
+Swing-based desktop application to check the hash or checksum of files for verification purposes.  Supports several popular cryptographic hash-functions including MD5, SHA-128, SHA-256, and SHA-512.
